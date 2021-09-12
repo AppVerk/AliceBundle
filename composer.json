@@ -18,12 +18,12 @@
 
     "autoload": {
         "psr-4": {
-            "Hautelook\\AliceBundle\\": "src"
+            "AppVerk\\AliceBundle\\": "src"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Hautelook\\AliceBundle\\": [
+            "AppVerk\\AliceBundle\\": [
                 "fixtures",
                 "tests"
             ]
