@@ -1,5 +1,5 @@
 {
-    "name": "appverk/alice-bundle",
+    "name": "app-verk/alice-bundle",
     "description": "Symfony bundle to manage fixtures with Alice and Faker.",
     "keywords": ["Symfony", "Fixture", "ORM", "Alice", "Faker"],
     "type": "symfony-bundle",
